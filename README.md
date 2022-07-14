@@ -1,10 +1,9 @@
-
-
+![Design sem nome](https://user-images.githubusercontent.com/99096015/179116124-1df8b445-a58a-469d-a6a7-e3a6b014f371.png)
 ---
 
 ##  🕵Sobre
 
-
+Uma rede social totalmente funcional
 
 ---
 ##  🧭Status do Projeto
@@ -15,8 +14,9 @@
 
 ##  🎯Objetivo do Projeto
 
-
-
+ Implementar uma rede social totalmente funcional
+ 
+ Tecnologias utilizadas: HTML, CSS, Javascript, React.JS, Styled-Components, React Hooks, Api Restful, Material-UI, Git e GitHub.
 
 ## ☑️Requisitos de Funcionalidade
 
@@ -35,11 +35,9 @@
 - [x] É possível realizar Logout
 - [x] Há loading em todas as páginas que esperam dados da API (lista de posts, detalhe de post, criação de post
 
-![image](https://user-images.githubusercontent.com/99096015/179037117-77174e48-63bf-4ff6-9ef3-21b14004fb59.png)
-![image](https://user-images.githubusercontent.com/99096015/179037183-dce60812-1578-439c-875d-7d39933d6df9.png)
-![image](https://user-images.githubusercontent.com/99096015/179038237-020e9989-0f46-4dfe-b8ad-99bfd527486d.png)
-![image](https://user-images.githubusercontent.com/99096015/179038733-725ef7df-29d4-4fc2-bc1b-4644f9296b40.png)
+![image](https://user-images.githubusercontent.com/99096015/179116323-82e3fca3-c1d1-40dd-8b22-d44236d3e559.png) ![image](https://user-images.githubusercontent.com/99096015/179116365-5b9bb1ee-87de-4914-bcaa-a68e369cdbad.png)
 
+![image](https://user-images.githubusercontent.com/99096015/179116428-504b05c1-3d53-4c07-bef0-1c21047d4d31.png) ![image](https://user-images.githubusercontent.com/99096015/179116479-853a1801-91f1-4b15-9403-ccfafc824004.png)
 ---
 
 ## 🔗Link para Acessar
